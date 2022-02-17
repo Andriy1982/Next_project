@@ -8,6 +8,8 @@ const navigation = [
   { id: 1, title: 'Home', path: '/' },
   { id: 2, title: 'Posts', path: '/posts' },
   { id: 3, title: 'Contacts', path: '/contacts' },
+  { id: 4, title: 'goit-react-hw-01', path: '/goit-react-hw-01' },
+  
 ];
 
 const Navbar: FC = () => {
